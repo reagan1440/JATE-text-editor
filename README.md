@@ -31,6 +31,9 @@ This project is licensed under the MIT license.
 ## Questions
 For any questions, please contact [reagan1440](https://github.com/reagan1440) via email at reaganrl14@gmail.com.
 
+## deployed page 
+![Alt text](<images/Screenshot (39).png>)
+
 ## link to deployed page 
 https://jate-text-editor-f9ma.onrender.com/
 
